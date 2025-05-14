@@ -1,0 +1,1 @@
+Treasure, Jericho, many health towers, steel box

@@ -1,0 +1,1 @@
+Shell 1: Waypoint Entrance Shaft black cube has upgrades if you shrink
