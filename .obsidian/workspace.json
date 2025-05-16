@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ed7a21e739920d36",
+        "id": "2e4b7eb13b4b75c3",
         "type": "tabs",
         "children": [
           {
-            "id": "678e8d98cd06f9db",
+            "id": "530baca6640eee93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chronicles/Mossy Air Island.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mossy Air Island"
-            }
-          },
-          {
-            "id": "d3d54979c380f06e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
@@ -193,12 +175,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "678e8d98cd06f9db",
+  "active": "530baca6640eee93",
   "lastOpenFiles": [
+    "Chronicles/Mossy Air Island.md",
     "conflict-files-obsidian-git.md",
     "Chronicles/Tutorial/Tutorial.md",
     "Chronicles/Ying World/Slow Exit Maze.md",
-    "Chronicles/Ying World/Ying Flower.md",
-    "Chronicles/Mossy Air Island.md"
+    "Chronicles/Ying World/Ying Flower.md"
   ]
 }
